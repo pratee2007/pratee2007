@@ -9,9 +9,6 @@ An aspiring **Full-Stack Web Developer** and **Computer Science & Engineering** 
 - 💻 **Focus:** Full-Stack Web Development & Data Structures/Algorithms
 - ⚡ **Looking to:** Collaborate on open-source projects and web applications
 - 📫 **How to reach me:** [prateekkumarsingh321@gmail.com](mailto:prateekkumarsingh321@gmail.com)
--  ![Uploading LogoInstaGIF (2).gif…]()
-<img width="100" height="100" alt="LogoInstaGIF" src="https://github.com/user-attachments/assets/023ad6dd-39aa-4a34-9075-d48199a647e8" />
- my instagram ID:- ._.prateek12
 
 ---
 
@@ -51,3 +48,4 @@ An aspiring **Full-Stack Web Developer** and **Computer Science & Engineering** 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-kumar-singh-58228b386/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/prateek_93/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prateekkumarsingh321@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/._.prateek12/)
