@@ -9,6 +9,7 @@ An aspiring **Full-Stack Web Developer** and **Computer Science & Engineering** 
 - 💻 **Focus:** Full-Stack Web Development & Data Structures/Algorithms
 - ⚡ **Looking to:** Collaborate on open-source projects and web applications
 - 📫 **How to reach me:** [prateekkumarsingh321@gmail.com](mailto:prateekkumarsingh321@gmail.com)
+- my instagram ID:- ._.prateek12
 
 ---
 
