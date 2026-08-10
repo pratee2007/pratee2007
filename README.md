@@ -10,7 +10,7 @@ An aspiring **Full-Stack Web Developer** and **Computer Science & Engineering** 
 - ⚡ **Looking to:** Collaborate on open-source projects and web applications
 - 📫 **How to reach me:** [prateekkumarsingh321@gmail.com](mailto:prateekkumarsingh321@gmail.com)
 -  ![Uploading LogoInstaGIF (2).gif…]()
-<img width="480" height="480" alt="LogoInstaGIF" src="https://github.com/user-attachments/assets/023ad6dd-39aa-4a34-9075-d48199a647e8" />
+<img width="100" height="100" alt="LogoInstaGIF" src="https://github.com/user-attachments/assets/023ad6dd-39aa-4a34-9075-d48199a647e8" />
  my instagram ID:- ._.prateek12
 
 ---
