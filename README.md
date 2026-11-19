@@ -45,8 +45,8 @@ An aspiring **Full-Stack Web Developer** and **Computer Science & Engineering** 
 ### 📈 GitHub & Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratee2007&show_icons=true&theme=tokyonight" alt="Prateek's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratee2007&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pratee2007&show_icons=true&theme=tokyonight" alt="Prateek's GitHub Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratee2007&layout=compact&theme=tokyonight" alt="Top Languages" width="38%" />
 </p>
 
 ---
